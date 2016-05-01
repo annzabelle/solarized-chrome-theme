@@ -1,0 +1,29 @@
+
+{
+ "name": "Solarized Dark Cyan",
+ "manifest_version": 2,
+ "version": "0.0.0.1",
+ "theme": {
+  "colors": {
+    "frame": [ 0,	43,	54 ],
+    "frame_inactive": [ 7,	54,	66 ],
+    "frame_incognito": [ 7,	54,	66],
+    "frame_incognito_inactive": [ 7,	54,	66],
+    "toolbar": [ 0,	43,	54],
+    "tab_text": [ 42,	161,	152	],
+    "tab_background_text": [ 42,	161,	152 ],
+    "bookmark_text": [ 42,	161,	152],
+    "ntp_background": [ 0,	43,	54],
+    "ntp_text": [ 42,	161,	152 ],
+    "ntp_link": [ 131,	148,	150],
+    "ntp_link_underline": [ 131,	148,	150 ],
+    "ntp_header": [ 7,	54,	66],
+    "ntp_section": [ 7,	54,	66],
+    "ntp_section_text": [  42,	161,	152  ],
+    "ntp_section_link": [ 131,	148,	150],
+    "ntp_section_link_underline": [ 131,	148,	150],
+    "control_background": [ 0,	43,	54 ],
+    "button_background": [ 0,	43,	54 ]
+  }
+  }
+}
